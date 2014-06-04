@@ -87,8 +87,7 @@
         android:theme="@style/Theme.TMessages.Start"
         android:name="org.telegram.ui.ApplicationLoader"
         android:hardwareAccelerated="true"
-        android:largeHeap="true"
-        android:debuggable="true">
+        android:largeHeap="true">
 
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
         <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyC2T3xDU7OxhXl1nbRs4bJN6qKg1PSrerY" />
