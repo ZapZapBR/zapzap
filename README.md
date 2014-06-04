@@ -1,6 +1,6 @@
 ## ZapZap - Telegram Client for Android
 
-[ZapZap](http://zapzapbr.mobi) is a messaging app, based on the source code of the Official Telegram (https://github.com/DrKLO/Telegram), with a focus on speed and security. It’s superfast, simple and free.
+[ZapZap](http://zapzapbr.mobi) is a messaging app, based on the source code of the Official Telegram with a focus on speed and security. It’s superfast, simple and free.
 
 This repo contains official [ZapZap App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger.erick) source code.
 
