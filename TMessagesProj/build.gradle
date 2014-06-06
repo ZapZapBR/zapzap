@@ -32,10 +32,6 @@ android {
     aaptOptions.useAaptPngCruncher = true
 
     signingConfigs {
-        debug {
-            storeFile file("debug.keystore")
-        }
-
         release {
             storeFile file("release.keystore")
             storePassword "PASSWORD"
